@@ -1,7 +1,40 @@
-# Getting Started with Create React App
+# Orchestra Take Home Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a take-home assignment for Orchestra Health, featuring a Blackjack game implemented using React and TypeScript.
 
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **TypeScript**: Superset of JavaScript that adds static typing.
+- **Material-UI**: React component library for styling.
+
+## Screenshots
+
+Below are some screenshots of the application in action:
+
+<img width="1686" alt="Screenshot 2024-07-19 at 4 12 51 PM" src="https://github.com/user-attachments/assets/7e43c46f-dded-4e6d-8d30-9f83d755d29b">
+<img width="1685" alt="Screenshot 2024-07-19 at 4 26 55 PM" src="https://github.com/user-attachments/assets/4ad4c46c-b1a0-4906-910b-a4dd176a0457">
+<img width="1700" alt="Screenshot 2024-07-19 at 3 48 27 PM" src="https://github.com/user-attachments/assets/5e3fda48-c59c-4131-8f8d-821f4fbed56b">
+
+
+## Getting Started
+
+To run the application locally, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/Maneesha24/orchestra-take-home-assignment.git
+   cd orchestra-take-home-assignment
+   ```
+
+2. **Install Dependencies**
+  Ensure you have Node.js installed. Then, run:
+
+  ```bash
+  npm install
+  ```
+   
 ## Available Scripts
 
 In the project directory, you can run:
