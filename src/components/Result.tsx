@@ -5,7 +5,7 @@ import DialogTitle from "@mui/material/DialogTitle";
 import DialogContent from "@mui/material/DialogContent";
 import DialogActions from "@mui/material/DialogActions";
 import { Box, Button, Typography } from "@mui/material";
-import YouWin from "../assets/images/you_win.gif";
+import YouWin from "../assets/images/black-jack.png";
 import YouLost from "../assets/images/you_lose.gif";
 
 type ResultProps = {

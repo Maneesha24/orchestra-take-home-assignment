@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Home } from './pages/Home';
 import { Game } from './pages/Game';
 import '@fontsource/zeyada';
 
@@ -14,8 +13,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/game" element={<Game />} />
+        <Route path="/" element={<Game />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
